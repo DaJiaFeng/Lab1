@@ -107,7 +107,7 @@ public class GraphViz1
     * @param to    A File object to where we want to write.
     * @return Success: 1, Failure: -1
     */
-   public int writeGraphToFile(byte[] img, File to)
+   public int writeGraphToFile(byte[] img, File to)    //在文件画图
    {
       try {
          FileOutputStream fos = new FileOutputStream(to);
