@@ -1,5 +1,7 @@
 package lab1;
 
+//调用了GraphViz
+
 import java.io.BufferedReader;
 import java.io.DataInputStream;
 import java.io.File;
