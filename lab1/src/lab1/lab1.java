@@ -68,7 +68,7 @@ public class lab1 {
 		}
 		         
 		switch (xi){
-		case 1:
+		case 1:          //չʾͼ
 			Set<Entry<String, HashMap<String,Integer>>> entrySett =Graph.entrySet();
 			for (Entry<String, HashMap<String,Integer>> entry : entrySett) {
 				if (entry.getValue()!=null){
