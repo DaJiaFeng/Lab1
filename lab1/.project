@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>lab1</name> <!--项目的名称-->
+    <!--项目的名称-->
+	<name>lab1</name>
 	<comment></comment>
 	<projects>
 	</projects>
