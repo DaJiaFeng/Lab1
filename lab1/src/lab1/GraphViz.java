@@ -2,6 +2,10 @@ package lab1;
 
 //调用了GraphViz
 
+ 
+a change in B1 & C4 & B2
+ 
+ 
 import java.io.BufferedReader;
 import java.io.DataInputStream;
 import java.io.File;
@@ -9,9 +13,11 @@ import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.FileWriter;
 import java.io.InputStreamReader;
+
 //第二处改动
  
 //第一次修改
+
 public class GraphViz1
 {
    /**
@@ -110,6 +116,7 @@ public class GraphViz1
     * @return Success: 1, Failure: -1
     */
    public int writeGraphToFile(byte[] img, File to)    //在文件画图
+
    {
       try {
          FileOutputStream fos = new FileOutputStream(to);

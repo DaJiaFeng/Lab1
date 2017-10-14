@@ -1,3 +1,6 @@
+
+a change in B1 & C4
+
 package lab1;
 import java.io.*;
 import java.util.*;
@@ -5,6 +8,7 @@ import java.util.Map.Entry;
 
 //第三处改动
 //第一次修改
+
 
 public class lab1 {
  
@@ -152,6 +156,7 @@ public class lab1 {
 		}
 	}
 	//第二次修改 
+
 	public static String queryBridgeWords(String word1, String word2)
 	{
 		String [] array=new String[100];
